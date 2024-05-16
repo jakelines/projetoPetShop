@@ -55,17 +55,17 @@ nav a:hover{
     background-color: #bdff9c;
 }
 
-.container{
+.conteiner{
     width: 900px;
     margin: 0 auto;
     padding: 56px 0;
 }
 
-.flex-contaier{
+.flex-conteiner{
     display: flex;
     justify-content: space-between;
 }
 
-.flex-contaier .col{
+.flex-conteiner .col{
     width: 430px;
 }
